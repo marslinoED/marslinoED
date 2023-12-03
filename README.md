@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc1YnZrbzdvNTgyenJ6eWt0bXZmcWc2MzVnazlyNHhwbjN2enVsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400px" />
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479pylsmkywxgj02eoeiw2lj7uyju618lak7krrozf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px" />
 <br>
 <h1 align="center">Hi 👋, I'm Marslino Edward</h1>
  <!-- how to reach me -->
