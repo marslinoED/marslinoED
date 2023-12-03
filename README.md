@@ -1,7 +1,8 @@
 <div align="center">
-	<h1 align="center">Hi 👋, I'm Marslino Edward</h1>
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479pylsmkywxgj02eoeiw2lj7uyju618lak7krrozf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px" />
 <br>
+	
+<h1 align="center">Hi 👋, I'm Marslino Edward</h1>
  <!-- how to reach me -->
 <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
 
