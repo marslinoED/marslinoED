@@ -15,7 +15,7 @@
 
 <a href="https://www.kaggle.com/marslinoedward"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>   
 </p> 
-<h3 align="center">A Software Engineer 💻 </h3>
+<h3 align="center">💻 A Software Engineer 💻 </h3>
 
  🌱 I’m currently learning AI and ML 🌱
 
