@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc1YnZrbzdvNTgyenJ6eWt0bXZmcWc2MzVnazlyNHhwbjN2enVsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400px" />
 <br>
 <h1 align="center">Hi 👋, I'm Marslino Edward</h1>
  <!-- how to reach me -->
