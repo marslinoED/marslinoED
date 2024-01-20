@@ -14,7 +14,7 @@
 	<a href="https://codeforces.com/profile/MarslinoEdward"><img src="icons/Codeforces.colored.svg" alt="codeforces" title="codeforces" width="50px"/></a>
 
 
-<a href="https://www.kaggle.com/marslinoedward"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle" title="Kaggle" width="50px"/>   
+<a href="https://www.kaggle.com/marslinoedward"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle" title="Kaggle" width="50px"/></a>   
 <a href="CV/Marslino EdwardCVNew.pdf" target="_blank" rel="noopener noreferrer"><img img src="icons/cv.png" alt="CV" title="CV" width="50px"/></a>
 </p> 
 <h3 align="center">💻 A Software Engineer 💻 </h3>
