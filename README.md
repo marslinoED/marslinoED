@@ -15,9 +15,7 @@
 
 
 <a href="https://www.kaggle.com/marslinoedward"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>   
-<a href="CV/Marslino EdwardCVNew.pdf" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-file-pdf"></i> Open PDF
-    </a>
+<a href="CV/Marslino EdwardCVNew.pdf" target="_blank" rel="noopener noreferrer"><img img src="icons/cv.png" alt="CV" title="CV" width="50px"/></a>
 </p> 
 <h3 align="center">💻 A Software Engineer 💻 </h3>
 
