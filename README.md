@@ -4,7 +4,9 @@
 	
 <h1 align="center">Hi 👋, I'm Marslino Edward</h1>
  <!-- how to reach me -->
-<p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
+<p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me 
+<a href="CV/Marslino EdwardCVNew.pdf" target="_blank" rel="noopener noreferrer"><img img src="icons/cv.png" alt="CV" title="CV" width="50px"/></a>
+</p>
 
 <!-- --> 
 <p align="center">
@@ -15,7 +17,6 @@
 
 
 <a href="https://www.kaggle.com/marslinoedward"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle" title="Kaggle" width="75px"/></a>   
-<a href="CV/Marslino EdwardCVNew.pdf" target="_blank" rel="noopener noreferrer"><img img src="icons/cv.png" alt="CV" title="CV" width="50px"/></a>
 </p> 
 <h3 align="center">💻 A Software Engineer 💻 </h3>
 
