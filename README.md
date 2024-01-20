@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm Marslino Edward</h1>
  <!-- how to reach me -->
 <p>
-
+<img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">
  How to Reach Me 
-<a href="CV/Marslino EdwardCVNew.pdf"><img img src="icons/cv.png" alt="CV" title="CV" width="40px"/></a>
 </p>
 
 <!-- --> 
@@ -23,7 +22,7 @@
 <h3 align="center">💻 A Software Engineer 💻 </h3>
 
  🌱 I’m currently learning AI and ML 🌱
-
+<a href="CV/Marslino EdwardCVNew.pdf"><img img src="icons/cv.png" alt="CV" title="CV" width="40px"/></a>
 
 
 
