@@ -21,7 +21,7 @@
 </p> 
 <h3 align="center">💻 A Software Engineer 💻 </h3>
 
- 🌱 I’m currently learning AI and ML 🌱
+ 🌱 I’m currently learning AI and ML 🌱<br>
 <a href="CV/Marslino EdwardCVNew.pdf"><img img src="icons/cv.png" alt="CV" title="CV" width="40px"/></a>
 
 
