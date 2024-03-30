@@ -52,7 +52,7 @@
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
 </div>
-<p style="background-color: #f0f0f0;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marslinoED&show_icons=true&locale=en&layout=compact" alt="marslinoED" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marslinoED&show_icons=true&locale=en&layout=compact" alt="marslinoED" style="background-color: #f0f0f0;" /></p>
 
 
 
