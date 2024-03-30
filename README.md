@@ -25,31 +25,31 @@
  🌱 I’m currently learning AI and ML 🌱
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="20" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=c" height="20" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=unity" height="20" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="25" alt="unity logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="20" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=linux" height="20" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=ai" height="20" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" alt="pandas logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25" alt="opencv logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="tensorflow logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
 </div>
 
 
