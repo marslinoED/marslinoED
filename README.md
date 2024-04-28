@@ -60,10 +60,14 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marslinoED&show_icons=true&locale=en&layout=compact" alt="marslinoED" /></p>
 
+<div style="float: left; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/marslinoED" />
+</div>
 
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/marslinoED)
+<div style="float: left; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/marslinoED" />
+</div>
 
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/marslinoED)
 
 
 <!---
