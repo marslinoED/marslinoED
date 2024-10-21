@@ -18,7 +18,7 @@
 
 
 <a href="https://www.kaggle.com/marslinoedward"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle" title="Kaggle" width="75px"/></a>   
-<a href="Informations/CV/Marslino-Edward-Helmy-CV_24Oct.pdf"><img img src="icons/cv.png" alt="CV" title="CV" width="40px"/></a>
+<a href="Informations/CV/Marslino-Edward-Helmy-CV.pdf"><img img src="icons/cv.png" alt="CV" title="CV" width="40px"/></a>
 </p> 
 <h3 align="center">💻 AI & Software Engineer 💻 </h3>
 
