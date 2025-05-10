@@ -44,9 +44,7 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" alt="pandas logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="25" alt="sklearn logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=opencv" height="25" alt="opencv logo"  />
   <img width="1" />
