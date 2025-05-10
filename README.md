@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="25" alt="python logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo"  />
   <img width="1" />
