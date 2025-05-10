@@ -40,6 +40,8 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="Flutter logo"  />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
@@ -52,12 +54,6 @@
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="Flutter logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="25" alt="Flutter logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=google" height="25" alt="google logo"  />
- 
 </div>
 
 
