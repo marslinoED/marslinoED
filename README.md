@@ -32,7 +32,7 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="25" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
   <img width="1" />
