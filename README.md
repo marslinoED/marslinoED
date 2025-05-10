@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=opencv" height="25" alt="opencv logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="25" alt="tensorflow logo"  />
-  <img width="0.5" />
+  <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
   <img width="1" />
 </div>
