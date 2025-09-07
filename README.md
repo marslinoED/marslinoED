@@ -4,12 +4,11 @@
 	
 <h1 align="center">Hi 👋, I'm Marslino Edward</h1>
  <!-- how to reach me -->
+
 <p>
 <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">
  How to Reach Me 
 </p>
-
-<!-- --> 
 <p align="center">
         <a href="mailto:lino.edward11@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
 	<a href="https://www.linkedin.com/in/marslino-edward/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
