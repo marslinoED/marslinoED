@@ -20,7 +20,7 @@
 <a href="Informations/CV/Marslino Edward_CV.pdf"><img img src="icons/cv.png" alt="CV" title="CV" width="40px"/></a>
 </p> 
 <h3 align="center">💻 AI & Software Engineer 💻 </h3>
-hi
+
  🌱 I’m currently learning AI and ML 🌱
 
 <br>
