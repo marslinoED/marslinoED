@@ -24,36 +24,25 @@
  🌱 I’m currently learning AI and ML 🌱
 
 <br>
+<h3 align="left">× Languages:</h3>
+<p align="center">
+  <img height='25' src="https://skillicons.dev/icons?i=python,cpp,cs,c,dart,linux" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="25" alt="python logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=unity" height="25" alt="unity logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="Flutter logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="25" alt="sklearn logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="25" alt="opencv logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="25" alt="tensorflow logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
-  <img width="1" />
-</div>
+<h3 align="left">× AI stack:</h3>
+<p align="center">
+  <img  height='25'  src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow,anaconda,pytorch" />
+</p>
+
+<h3 align="left">× Software Engineering stack:</h3>
+<p align="center">
+  <img  height='25'  src="https://skillicons.dev/icons?i=html,css,js,react,django,dotnet,mysql,sqlite,fastapi,postman,firebase,heroku" />
+</p>
+
+<h3 align="left">× Other skills:</h3>
+<p align="center">
+  <img  height='25' src="https://skillicons.dev/icons?i=unity,godot,arduino,flutter,vercel,github,figma" />
+</p>
 
 
 <br>
