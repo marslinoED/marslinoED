@@ -36,7 +36,7 @@
 
 <h3 align="left">× Software Engineering stack:</h3>
 <p align="center">
-  <img  height='25'  src="https://skillicons.dev/icons?i=html,css,js,react,django,dotnet,mysql,sqlite,fastapi,postman,firebase,heroku" />
+  <img  height='25'  src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,dotnet,mysql,sqlite,fastapi,postman,firebase,heroku" />
 </p>
 
 <h3 align="left">× Other skills:</h3>
