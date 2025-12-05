@@ -37,10 +37,10 @@
     <a href="https://www.kaggle.com/marslinoedward"
       ><img
         src="icons/Kaggle.svg"
-        alt="kaggle"
-        title="kaggle"
+        alt="Kaggle"
+        title="Kaggle"
         width="40px"
-    /></a>
+    />1</a>
     <a href="Informations/CV/Marslino Edward_CV.pdf"
       ><img img src="icons/cv.png" alt="CV" title="CV" width="40px"
     /></a>
