@@ -11,7 +11,7 @@
   <div align="left" class="social-icons">
     <h3>How to reach me</h3>
     <a href="mailto:lino.edward11@gmail.com"
-      ><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="40px"
+      ><img img src="icons/gmail.svg" alt="Gmail" title="gmail" width="40px"
     /></a>
     <a href="https://www.linkedin.com/in/marslino-edward/"
       ><img
