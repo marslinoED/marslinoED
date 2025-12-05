@@ -36,7 +36,7 @@
     /></a>
     <a href="https://www.kaggle.com/marslinoedward"
       ><img
-        src="icons/Kaggle.svg"
+        src="icons/kaggle.svg"
         alt="kaggle"
         title="kaggle"
         width="40px"
