@@ -40,7 +40,7 @@
         alt="Kaggle"
         title="Kaggle"
         width="40px"
-    />1</a>
+    /></a>
     <a href="Informations/CV/Marslino Edward_CV.pdf"
       ><img img src="icons/cv.png" alt="CV" title="CV" width="40px"
     /></a>
