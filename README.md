@@ -53,10 +53,10 @@
     />
   </p>
   <div align="center" class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats-rust-two-71.vercel.app/api?username=marslinoed&show_icons=true&locale=en&theme=blue-green" alt="marslinoed" />
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats-rust-two-71.vercel.app/api?username=marslinoed&show_icons=true&locale=en&theme=tokyonight" alt="marslinoed" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-rust-two-71.vercel.app/api/top-langs?username=marslinoed&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="marslinoed" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-rust-two-71.vercel.app/api/top-langs?username=marslinoed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="marslinoed" />
 </div> 
   <div class="brief" align="left">
   <h3>AI / ML:</h3>
