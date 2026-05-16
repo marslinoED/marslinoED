@@ -75,7 +75,7 @@
 
   <h3>Backend:</h3>
     <p>
-      With <strong>Node.js</strong>, I create2 structured, secure, and scalable
+      With <strong>Node.js</strong>, I create structured, secure, and scalable
       APIs. My code is made to handle real users, real data, and real
       constraints.
     </p>
